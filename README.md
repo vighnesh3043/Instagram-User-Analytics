@@ -1,4 +1,9 @@
 # Instagram-User-Analytics
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Tools](#tools)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 
@@ -52,7 +57,7 @@ In the initial data preparation phase the following tasks were performed:
 2. Handling missing values.
 3. Data cleaning and formating.
 
-### Insights/Findings
+### Insights
 The analysis results are summarized as follows:
 1.  ‘Smile’ is the most popular hashtag on the Instagram with total of 59 tags, beach is the second most popular hashtag  with total of 42 tags.
 2.  Thursday is the day of the week where most users registered on Instagram. Thursday is the best day of the week to conduct ad campaign.
