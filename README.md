@@ -1,7 +1,7 @@
 # Instagram-User-Analytics
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Tools](#tools)
+- [Tech Stack](#tech-stack)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
 
@@ -46,9 +46,12 @@ B) Investor Metrics: Our investors want to know if Instagram is performing well 
 
 Task: Provide how many times does average user posts on Instagram. Also, provide the total number of photos on Instagram/total number of users
 
-### Tools 
-- Excel - Data cleaning
+### Tech Stack 
+1. Software:
 - MySql Workbench(MySQL Workbench 8.0) - Data Analysis [Download here](https://www.mysql.com/products/workbench/)
+2. System Requirements:
+- Processor : Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz   2.59 GHz RAM: 8.00 GB  
+- System Type: 64-bit operating system, x64-based processor. 
 
 ### Data Cleaning/Preparation
 
