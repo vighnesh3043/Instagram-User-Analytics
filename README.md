@@ -51,3 +51,16 @@ In the initial data preparation phase the following tasks were performed:
 1. Data Loading and inspection.
 2. Handling missing values.
 3. Data cleaning and formating.
+
+### Insights/Findings
+The analysis results are summarized as follows:
+1.  ‘Smile’ is the most popular hashtag on the Instagram with total of 59 tags, beach is the second most popular hashtag  with total of 42 tags.
+2.  Thursday is the day of the week where most users registered on Instagram. Thursday is the best day of the week to conduct ad campaign.
+3.  The average number of posts per user on Instagram is 2.57. That means on an average every user is posting at least 2 posts on Instagram.
+4.  That means total number of photos on Instagram is approximately 3.5 times the total number of users on Instagram.
+5.  The users who are using Instagram for long time have registered on the platform in the same month that is MAY of 2016.
+6.   the user with username zack_kemmer93 and user id 52 with post having id 145 has most number of likes (48).He is the winner of the contest.
+
+### Recommendations
+1. Marketers may maximise the reach and efficacy of their campaigns by having a thorough understanding of user registration trends, the best days to launch ads, and interaction data.
+2. Understanding popular hashtags, user engagement metrics, and content creation patterns guides strategic content planning, ensuring alignment with user preferences. 
