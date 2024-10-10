@@ -1,6 +1,6 @@
-CREATE DATABASE ig_clone;
+CREATE DATABASE insta_data;
 
-USE ig_clone;
+USE insta_data;
 
 /*Users*/
 CREATE TABLE users(
